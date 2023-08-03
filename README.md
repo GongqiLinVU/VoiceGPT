@@ -1,6 +1,6 @@
 # Auto-GPT Research Guidelines
 
-## Table of Contents
+## Research Points
 
 1. [Architecture & Design](#architecture--design)
 2. [Feedback Mechanisms](#feedback-mechanisms)
@@ -62,11 +62,9 @@
 
 
 
-# Auto-GPT + Whisper Chatbot Solution
+## Application: Auto-GPT + Whisper Chatbot Solution
 
 Whisper offers a potential framework to augment the capabilities of Auto-GPT, allowing it to operate with system-level commands and improved context management. By combining these two, we can achieve a chatbot that not only understands and generates human-like text but can also interact with systems, databases, and other software components.
-
-## Table of Contents
 
 1. [Solution Overview](#solution-overview)
 2. [System Components](#system-components)
@@ -109,5 +107,8 @@ Using Whisper as an intermediary layer, Auto-GPT can issue system commands, quer
 
 ---
 
-
+## Related projects
+- https://github.com/Significant-Gravitas/Auto-GPT
+- https://github.com/reworkd/AgentGPT
+- https://github.com/e-johnstonn/SalesCopilot
 
