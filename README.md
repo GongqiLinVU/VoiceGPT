@@ -89,11 +89,11 @@ Using Whisper as an intermediary layer, Auto-GPT can issue system commands, quer
 
 ### Workflow
 
-1. **User Input**: A user interacts with the chatbot via a UI (could be web-based, mobile app, etc.).
-2. **Auto-GPT Processing**: Auto-GPT interprets the user's request. If it requires a system-level action (e.g., database query), it sends a command to Whisper.
-3. **Whisper Actions**: Whisper interprets the command from Auto-GPT and interacts with the necessary system components (e.g., fetching data from a database).
-4. **Response Formation**: Data or results from Whisper are sent back to Auto-GPT, which then formulates a human-readable response.
-5. **User Output**: The generated response is displayed to the user via the UI.
+1. **User Input**: A user interacts with the chatbot via a Whispher.
+2. **Auto-GPT Processing**: Auto-GPT interprets the user's request, and seperates into multiple steps. 
+3. **Auto-GPT Actions**: Auto-GPT interacts with the necessary system components (e.g., fetching data from a database).
+4. **Response Formation**: Data or results from system are sent back to Auto-GPT with the voice format.
+5. **User Interaction**: The generated response is displayed to the user, and user can decide to continue or not.
 
 ---
 
