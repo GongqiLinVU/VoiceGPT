@@ -77,6 +77,8 @@ Whisper offers a potential framework to augment the capabilities of Auto-GPT, al
 
 Using Whisper as an intermediary layer, Auto-GPT can issue system commands, query databases, and interact with various APIs, enhancing its capabilities beyond mere text generation. 
 
+- https://openai.com/blog/introducing-chatgpt-and-whisper-apis
+
 ---
 
 ### System Components
