@@ -111,4 +111,5 @@ Using Whisper as an intermediary layer, Auto-GPT can issue system commands, quer
 - https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/reworkd/AgentGPT
 - https://github.com/e-johnstonn/SalesCopilot
+- https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant
 
